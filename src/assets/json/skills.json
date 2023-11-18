@@ -1,0 +1,34 @@
+[
+    {
+        "porcentaje": "60%",
+        "nombre": "Javascript"
+    },
+    {
+        "porcentaje": "60%",
+        "nombre": "CSS"
+    },
+    {
+        "porcentaje": "70%",
+        "nombre": "GIT"
+    },
+    {
+        "porcentaje": "65%",
+        "nombre": "react"
+    },
+    {
+        "porcentaje": "90%",
+        "nombre": "sql server"
+    },
+    {
+        "porcentaje": "90%",
+        "nombre": "jira"
+    },
+    {
+        "porcentaje": "85%",
+        "nombre": "ms project"
+    },
+    {
+        "porcentaje": "50%",
+        "nombre": "SEO"
+    }
+]
