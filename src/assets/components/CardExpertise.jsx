@@ -6,7 +6,7 @@ const CardExpertise = ({ conteo, title, text }) => {
             <div className="conteoExpertise">{conteo}</div>
             <div className="bloqueExpertise">
                 <h2>{title}</h2>
-                <p>{text}</p>
+                <div className='texto-expertise'>{text}</div>
             </div>
         </div>
     )

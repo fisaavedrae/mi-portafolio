@@ -48,7 +48,7 @@ h6 {
 h2,
 h3 {
   font-size: 15px;
-  line-height: 1.45;
+
   text-transform: uppercase;
 }
 
@@ -75,7 +75,7 @@ p {
   display: flex;
   flex-direction: row;
   height: 100%;
-
+  background-color: var(--bg-color-one);
 }
 
 .seccionOne .izquierda {
@@ -88,8 +88,12 @@ p {
   height: 100%;
   text-align: right;
   padding-right: 60px;
+  padding-top: 30px;
 }
 
+.izquierda p {
+  font-size: 15px;
+}
 
 
 .derecha {
@@ -101,6 +105,7 @@ p {
   justify-content: center;
   padding-left: 60px;
   padding-right: 50px;
+  padding-top: 30px;
   background-color: white;
 }
 
@@ -109,6 +114,7 @@ p {
   flex-direction: row;
   width: 100%;
   height: 100%;
+  background-color: var(--bg-color-two);
 }
 
 .seccionTwo .izquierda {
@@ -228,6 +234,11 @@ p {
 
 }
 
+.texto-intro {
+  line-height: 30px;
+  padding-bottom: 30px;
+}
+
 
 /*********/
 /**** EXPERTISE ****/
@@ -236,7 +247,7 @@ p {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
-  padding-top: 30px;
+
   padding-bottom: 30px;
 }
 
@@ -245,6 +256,7 @@ p {
   flex-direction: row;
   align-items: start;
   width: 40%;
+  padding-bottom: 30px;
 }
 
 .conteoExpertise {
@@ -262,6 +274,10 @@ p {
 
 }
 
+.texto-expertise {
+  line-height: 30px;
+}
+
 /*********/
 
 /*********/
@@ -271,7 +287,7 @@ p {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
-  padding-top: 30px;
+
   padding-bottom: 30px;
 }
 
@@ -324,7 +340,7 @@ p {
 /**** EXPERIENCE ****/
 .layoutExperience {
   width: 100%;
-  padding-top: 30px;
+
 }
 
 .bullet {
@@ -384,7 +400,7 @@ p {
 }
 
 .ubicacion-experience {
-  font-size: 12px;
+  font-size: 10px;
   color: var(--color-secundario);
   padding-bottom: 30px;
 }
@@ -402,7 +418,7 @@ li {
 /**** EDUCACION ****/
 .layoutEducacion {
   width: 100%;
-  padding-top: 30px;
+
 }
 
 
@@ -465,8 +481,30 @@ li {
 }
 
 .texto-educacion {
-  font-size: 15px;
+  font-size: 10px;
 }
 
+
+/*********/
+
+/*********/
+/**** EDUCACION ****/
+.layoutInformacionAdicional {
+  width: 100%;
+  padding-bottom: 30px;
+}
+
+.listado-informacion-adicional {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+  padding-bottom: 10px;
+}
+
+.texto-informacion-adicional {
+  color: var(--color-titulos);
+  font-weight: 600;
+}
 
 /*********/

@@ -6,8 +6,8 @@ const Educacion = props => {
     return (
         <div className="seccionTwo">
             <div className="izquierda">
-                <h2>EXPERIENCE</h2>
-                <p>Hago de todo un poco.</p>
+                <h2>educación</h2>
+                <p>No soy muy bueno para el estudio, pero lo pongo empeño.</p>
             </div>
             <div className="derecha">
                 <div className="layoutEducacion">
