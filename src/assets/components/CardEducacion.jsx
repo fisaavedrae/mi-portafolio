@@ -4,7 +4,7 @@ const CardEducacion = props => {
     return (
         <div className='cardEducacion'>
             <div className="primer-bloque-educacion">
-                <div className="bullet"><i class="fa-solid fa-circle"></i></div>
+                <div className="bullet"><i className="fa-solid fa-circle"></i></div>
                 <div className="linea-educacion"></div>
             </div>
             <div className="segundo-bloque-educacion">

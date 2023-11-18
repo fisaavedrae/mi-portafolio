@@ -508,3 +508,32 @@ li {
 }
 
 /*********/
+/*********/
+/**** PORFOLIO ****/
+.layoutPortafolio {
+  width: 100%;
+  padding-bottom: 30px;
+}
+
+.card-portafolio {
+  color: #939393;
+}
+
+.listado-portafolio {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+  padding-bottom: 10px;
+}
+
+.texto-portafolio {
+  color: var(--color-titulos);
+  font-weight: 600;
+}
+
+.hidden {
+  display: block;
+}
+
+/*********/

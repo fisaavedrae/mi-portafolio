@@ -10,6 +10,7 @@ import Skills from './assets/components/Skills'
 import Experience from './assets/components/Experience'
 import Educacion from './assets/components/Educacion'
 import InformacionAdicional from './assets/components/InformacionAdicional'
+import Portafolio from './assets/components/Portafolio'
 
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
       <Experience />
       <Educacion />
       <InformacionAdicional />
+      <Portafolio />
     </div>
   )
 }

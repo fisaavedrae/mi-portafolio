@@ -13,7 +13,7 @@ const InformacionAdicional = props => {
 
                     {fileInformacionAdicional.map((item, index) =>
                         <div className="listado-informacion-adicional" key={index}>
-                            <div className="bullet"><i class="fa-solid fa-circle"></i></div>
+                            <div className="bullet"><i className="fa-solid fa-circle"></i></div>
                             <div className="texto-informacion-adicional">{item.title}</div>
                         </div>
                     )}

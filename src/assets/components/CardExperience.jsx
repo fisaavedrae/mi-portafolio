@@ -4,7 +4,7 @@ const CardExperience = props => {
     return (
         <div className='cardExperience'>
             <div className="primer-bloque-experience">
-                <div className="bullet"><i class="fa-solid fa-circle"></i></div>
+                <div className="bullet"><i className="fa-solid fa-circle"></i></div>
                 <div className="linea-experience"></div>
             </div>
             <div className="segundo-bloque-experience">
