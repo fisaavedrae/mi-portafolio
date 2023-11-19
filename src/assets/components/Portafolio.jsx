@@ -11,7 +11,7 @@ const Portafolio = props => {
             </div>
             <div className="derecha">
                 <div className="layoutPortafolio">
-                    {filePortafolio.map((item, index) => <CardPortafolio key={index} imagen={item.imagen} title={item.title} descripcion={item.descripcion} />)}
+                    {filePortafolio.map((item, index) => <CardPortafolio key={index} imagen={item.imagen} title={item.title} descripcion={item.descripcion} live-app={item.liveapp} />)}
 
                 </div>
             </div>
