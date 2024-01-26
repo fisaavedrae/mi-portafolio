@@ -7,7 +7,7 @@ const Expertise = props => {
         <div className="seccionOne">
             <div className="izquierda">
                 <h2>EXPERTISE</h2>
-                <p>Batman would be jealous.</p>
+                <p>Batman estaría celoso.</p>
             </div>
             <div className="derecha">
                 <div className="layoutExpertise">

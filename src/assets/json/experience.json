@@ -52,7 +52,8 @@
         "ubicacion": "Santiago, Chile",
         "texto": [
             "Implementa módulo SAP TR para las solicitudes de viajes corporativos.",
-            "Implementa módulos de finiquitos y vacaciones en SAP HR."
+            "Implementa módulos de finiquitos y vacaciones en SAP HR.",
+            "Implementa diferentes proyectos y mejoras en modulo FI"
         ]
     },
     {
@@ -62,7 +63,7 @@
         "cargo": "Analista",
         "ubicacion": "Santiago, Chile",
         "texto": [
-            "Implementa portal web para información de pagos a proveedores de Walmart.",
+            "Implementa portal web para información de pagos a proveedores de Servicios y Mercadería de Walmart.",
             "Implementa ambiente web de SAP (WAS) a nivel de infraestructura, basis y funcional."
         ]
     },
@@ -73,7 +74,8 @@
         "cargo": "Analista desarrollador (Externo)",
         "ubicacion": "Santiago, Chile",
         "texto": [
-            "Desarrolla aplicación web para ingreso de forecast de ventas para comisiones de cajeros."
+            "Desarrolla aplicación web .net para ingreso de forecast de ventas para comisiones de cajeros.",
+            "Desarrolla aplicación web .net para planificacion de turnos de cajeros."
         ]
     },
     {

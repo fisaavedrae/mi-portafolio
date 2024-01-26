@@ -452,14 +452,14 @@ li {
   align-items: start;
   gap: 10px;
   padding-left: 10px;
-  width: 30%;
+  width: 50%;
 }
 
 .tercer-bloque-educacion {
   display: flex;
   flex-direction: column;
   align-items: start;
-  width: 70%;
+  width: 50%;
 }
 
 .fecha-educacion {
@@ -491,7 +491,7 @@ li {
 /*********/
 
 /*********/
-/**** EDUCACION ****/
+/**** INFORMACION ADICIONAL ****/
 .layoutInformacionAdicional {
   width: 100%;
   padding-bottom: 30px;

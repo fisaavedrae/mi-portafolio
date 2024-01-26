@@ -7,7 +7,7 @@ const Skills = props => {
         <div className="seccionTwo">
             <div className="izquierda">
                 <h2>SKILLS</h2>
-                <p>Un poco sobre mi.</p>
+                <p>Un poco técnico.</p>
             </div>
             <div className="derecha">
                 <div className="layoutSkill">
